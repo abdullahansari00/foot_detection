@@ -1,0 +1,26 @@
+<annotation>
+	<folder>face</folder>
+	<filename>face.acf479fe-9f13-11eb-b3e9-98e7434ea6f9.jpg</filename>
+	<path>D:\PROGRAMS\Python\Recognition\Tensorflow\workspace\images\collectedimages\face\face.acf479fe-9f13-11eb-b3e9-98e7434ea6f9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>107</ymin>
+			<xmax>390</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20210506_110131_1.jpg</filename>
+	<path>D:\PROGRAMS\Python\new\Tensorflow\workspace\images\train\IMG_20210506_110131_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1512</width>
+		<height>1512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>128</ymin>
+			<xmax>1066</xmax>
+			<ymax>1186</ymax>
+		</bndbox>
+	</object>
+</annotation>
